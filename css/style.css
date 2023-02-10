@@ -153,7 +153,8 @@ h2{
         grid-column: 4/8;
         grid-row: 4/9;    
         width:auto;
-        height:auto    
+        height:auto;    
+        font-family: 'Playfair Display', serif;
     }
 
     #aside>img{
